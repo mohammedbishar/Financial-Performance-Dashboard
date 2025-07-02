@@ -76,5 +76,5 @@ Refresh the data and explore insights!
 
 ![image](https://github.com/user-attachments/assets/778e0a7e-5b7a-4172-87cf-b7d21b9b895c)
 
-![image](https://github.com/user-attachments/assets/c39fc972-9ae0-4ed9-af80-b899be34db29)
+
 
